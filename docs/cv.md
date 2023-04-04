@@ -1,7 +1,12 @@
+[//]: # (---)
+[//]: # (hide:)
+[//]: # (  - navigation)
+[//]: # (  - toc)
+[//]: # (---)
 CV
 ==
 
 ### Curriculum Vitae
 Sergey's curriculum vitae (CV) can be found here:
 
-- [PDF version of CV](cv/generated_cv.pdf)
+- [PDF version of CV](generated_cv.pdf)

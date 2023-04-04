@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
-  - toc
-
 site_name: Sergey Andreev
 site_url: https://kohodono.github.io/
 edit_uri: blob/mkdocs/docs/
@@ -11,8 +6,8 @@ docs_dir: docs
 plugins:
     - search
     - pdf-export:
-      combined: True
-      combined_output_path: cv/generated_cv.pdf
+        combined: True
+        combined_output_path: cv/generated_cv.pdf
 
 theme:
   name: material

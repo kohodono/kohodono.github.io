@@ -1,3 +1,8 @@
+[//]: # (---)
+[//]: # (hide:)
+[//]: # (  - navigation)
+[//]: # (  - toc)
+[//]: # (---)
 ![kohodono.png](img%2Fkohodono.png)
 
 ### Summary
