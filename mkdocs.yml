@@ -1,0 +1,48 @@
+---
+hide:
+  - navigation
+  - toc
+
+site_name: Sergey Andreev
+site_url: https://kohodono.github.io/
+edit_uri: blob/mkdocs/docs/
+docs_dir: docs
+
+plugins:
+    - search
+    - pdf-export:
+      combined: True
+      combined_output_path: cv/generated_cv.pdf
+
+theme:
+  name: material
+  features:
+    - content.action.view
+    - content.action.edit
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+
+  static_templates:
+    - 404.html
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Inconsolata
+  palette:
+    primary: black
+    scheme: slate
+  favicon: material/alpha-k-box
+  icon:
+    logo: material/alpha-k-box
+
+nav:
+    - Home: index.md
+    - Professional Experience: professional_experience.md
+    - CV: cv.md
+
