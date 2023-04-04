@@ -9,11 +9,12 @@ plugins:
         combined: True
         combined_output_path: cv/generated_cv.pdf
 
+markdown_extensions:
+  - attr_list
+
 theme:
   name: material
   features:
-    - content.action.view
-    - content.action.edit
     - navigation.instant
     - navigation.tracking
     - toc.follow
