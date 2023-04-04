@@ -97,3 +97,9 @@ Professional Experience
 ### Courses
 - course 1
 - cource 2
+
+### How to contact me:
+
+:fontawesome-brands-telegram:{ .telegram } [telegram](t.me/kohodono)
+
+:fontawesome-brands-linkedin:{ .linkedin } [linkedin](https://www.linkedin.com/in/sergey-andreev-988611164/)

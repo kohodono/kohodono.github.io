@@ -12,6 +12,12 @@ plugins:
 markdown_extensions:
   - attr_list
   - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
