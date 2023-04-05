@@ -1,12 +1,10 @@
----
-hide:
-  - navigation
-#  - toc
----
+[//]: # (---)
+[//]: # (hide:)
+[//]: # (  - navigation)
+[//]: # (  - toc)
+[//]: # (---)
 Professional Experience
 =======================
-
-### Professional
 
 #### **AutomationQA, GarageIT, Tbilisi, Georgia, 2022 - present time**
 ##### **Main responsiblities:**
