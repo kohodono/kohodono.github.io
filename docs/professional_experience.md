@@ -28,38 +28,7 @@ Professional Experience
 - kafka (only UI, but will automate)
 
 #### **AutomationQA, SpeechTechnologyCenter, St.Petersburg, Russia, 2017 - 2022**
-##### **Junior Automation QA, 2017-2018**
-###### **Main responsiblities:**
 
-- regression testing
-- new features tesing
-- automation of manual tests
-- analysis of test results
-- test run via Teamcity
-
-###### **Project: Voice identification SDK**
-###### **Stack:**
-
-- Python2.7
-- TestLink
-- Teamcity
-- Windows/CentOS/Ubuntu
-##### **Middle Automation QA, 2018-2020**
-###### **Main responsibilities:**
-
-- responsibilities from previous level, plus:
-- swaping tests from Perl and Windows batch-files to Java
-- automation of performance tests
-- quality testing (involved statistics)
-
-###### **Project: Speech recognition SDK**
-###### **Stack:**
-
-- Java8
-- Python2.7
-- Teamcity
-- docker
-- Windows/CentOS/Ubuntu
 ##### **Senior Automation QA, 2020-2022**
 ###### **Main responsibilities:**
 
@@ -87,9 +56,40 @@ Professional Experience
 - Windows/CentOS/Ubuntu
 - adb
 
-### Courses
-- course 1
-- cource 2
+##### **Middle Automation QA, 2018-2020**
+###### **Main responsibilities:**
+
+- responsibilities from previous level, plus:
+- swaping tests from Perl and Windows batch-files to Java
+- automation of performance tests
+- quality testing (involved statistics)
+
+###### **Project: Speech recognition SDK**
+###### **Stack:**
+
+- Java8
+- Python2.7
+- Teamcity
+- docker
+- Windows/CentOS/Ubuntu
+
+
+##### **Junior Automation QA, 2017-2018**
+###### **Main responsiblities:**
+
+- regression testing
+- new features tesing
+- automation of manual tests
+- analysis of test results
+- test run via Teamcity
+
+###### **Project: Voice identification SDK**
+###### **Stack:**
+
+- Python2.7
+- TestLink
+- Teamcity
+- Windows/CentOS/Ubuntu
 
 ### How to contact me:
 
